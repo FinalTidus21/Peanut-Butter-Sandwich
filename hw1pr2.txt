@@ -2,10 +2,10 @@
 // Filename: hw1pr2.txt 
 // Name(s): 
 //
-// Task 1: Get two pieces of bread.
-// Task 2: Get jar of Jelly.
-// Task 3: Get jar of peanut butter.
+// Task 1: Get two slices of white bread.
+// Task 2: Get jar of strawbery jelly.
+// Task 3: Get jar of smooth peanut butter.
 // Task 4: Get knife
-// Task 5: Spread some jelly on piece of bread 1
-// Task 6: Spread some peanut butter on piece of bread bread 2
-// Task 7: Put piece of bread 1 and piece of bread 2 together so that the peanut butter and jelly are together
+// Task 5: Spread some strawberry jelly on slice of bread 1
+// Task 6: Spread some smooth peanut butter on slice of bread 2
+// Task 7: Put slice of bread 1 and slice of bread 2 together so that the peanut butter and jelly are together
