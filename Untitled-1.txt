@@ -6,6 +6,6 @@
 // Task 2: Get jar of Jelly.
 // Task 3: Get jar of peanut butter.
 // Task 4: Get knife
-// Task 5: Spread enough jelly on piece of bread 1 to create a medium layer of jelly on one side.
+// Task 5: Spread enough jelly on piece of bread 1 to create a medium layer of jelly on one of the faces of the bread that is not crust.
 // Task 6: Spread enough peanut butter on piece of bread bread 2 to create a medium layer on one of the faces of the bread that is not crust.
 // Task 7: Put piece of bread 1 and piece of bread 2 together so that the peanut butter and jelly are together
